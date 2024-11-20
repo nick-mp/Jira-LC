@@ -13,7 +13,7 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 
-![Task](https://https://github.com/nick-mp/Jira-LC/blob/main/img/2.png)
+![Task](https://github.com/nick-mp/Jira-LC/blob/main/img/2.png)
 
 Остальные задачи должны проходить по упрощённому workflow:
 
@@ -23,7 +23,7 @@
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
 
-![Task](https://https://github.com/nick-mp/Jira-LC/blob/main/img/1.png)
+![Task](https://github.com/nick-mp/Jira-LC/blob/main/img/1.png)
 
 **Что нужно сделать**
 
@@ -32,7 +32,7 @@
 1. При проведении обеих задач по статусам используйте kanban. 
 1. Верните задачи в статус Open.
 1. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
-![Task](https://https://github.com/nick-mp/Jira-LC/blob/main/img/3.png)
+![Task](https://github.com/nick-mp/Jira-LC/blob/main/img/3.png)
 2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
 ---
